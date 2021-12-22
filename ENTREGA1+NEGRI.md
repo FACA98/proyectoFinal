@@ -1,6 +1,6 @@
 # proyectoFinal
-Proyecto Final
-El proyecto consta de 3 clases (hay alguna mas hecha en clase) que son paciente, enfermera y médico. En la pagina principal se puede ir a cada una de ellas según links,
-todas heredan la estructura segun el template padre.html.
-Tambien cuentra con tres formularios de donde se permite agregar datos(texto, numérico y booleano) a las 3 clases antes mencionadas.
-Los formularios son medicoFormulario,pacienteFormulario y enfermeraFormulario.
+El proyecto final consta de un menú principal de donde se puede acceder a las distintas clases (médicos, pacientes y enfermeras), tambien cuenta con la opción de ir a página de inicio y otra para hacer logout.
+
+Dentro de las opciones de médicos, enfermeras y pacientes contamos con un link que nos re direccionarán según corresponda,  a una ventana donde se podrá cargar un nuevo formulario, y otro link que nos llevará a ver todas las cargas ya realizadas con las opciones de “ver más”, “modificar” y “borrar” de la clase en cuestión.
+
+También permite crear nuevos usuarios direccionándonos a LOGIN.
